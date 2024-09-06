@@ -46,7 +46,7 @@ module Top();
     input logic in2,
     input logic out
   );
-
+  
     dut_in0 = in0;
     dut_in1 = in1;
     dut_in2 = in2;
